@@ -1,29 +1,18 @@
-# 👋 Hi, I'm Kambiz Baghie
-**Senior Frontend Engineer** — building scalable React & React Native apps. I care about clean UI, predictable state management, and shipping product-focused features.
+# 💫 About Me:
+# 👋 Hi, I'm Kambiz Baghie<br>**Senior Frontend Engineer** — building scalable React & React Native apps. I care about clean UI, predictable state management, and shipping product-focused features.<br><br>- 🔭 Working on: **Self-hosted VPN app** (Flutter frontend / server-side POC) & **Date Deck** (relationship product MVP)  <br>- 💼 Experience: 8+ years in frontend engineering (React, React Native, Next.js)  <br>- ⚙️ Tech: React · React Native · Next.js · TypeScript · JavaScript · Redux · Tailwind CSS · Jest · Cypress  <br>- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/kambiz-baghie-177224b3/) · `kambiz.baghie@gmail.com`
 
-- 🔭 Working on: **Self-hosted VPN app** (Flutter frontend / server-side POC) & **Date Deck** (relationship product MVP)  
-- 💼 Experience: 8+ years in frontend engineering (React, React Native, Next.js)  
-- ⚙️ Tech: React · React Native · Next.js · TypeScript · JavaScript · Redux · Tailwind CSS · Jest · Cypress  
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/kambiz-baghie-177224b3/) · `kambiz.baghie@gmail.com`
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kfbdev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kambiz-baghie) 
 
-## 🔧 Selected Projects
-### Date Deck — Relationship product
-A card-based app to help couples and families interact better. Prototype complete; preparing MVP.
-
-### VPN App — Consumer VPN with domain split-tunneling
-Prototype & server setup: self-hosted components + mobile client (Flutter planned).
-
-### Portfolio
-Personal site (Next.js + Tailwind) showcasing case studies and code samples.
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=edikamy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=edikamy&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=edikamy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=edikamy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📈 GitHub Stats
-<!-- Add ReadMe Stats / Top Langs widgets here (GPRM can insert them for you) -->
-
----
-
-## 🤝 Want to collaborate?
-If you have a frontend, product, or growth challenge — DM on LinkedIn or email me.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
