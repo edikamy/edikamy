@@ -4,7 +4,7 @@
 - 🔭 Working on: **Self-hosted VPN app** (Flutter frontend / server-side POC) & **Date Deck** (relationship product MVP)  
 - 💼 Experience: 8+ years in frontend engineering (React, React Native, Next.js)  
 - ⚙️ Tech: React · React Native · Next.js · TypeScript · JavaScript · Redux · Tailwind CSS · Jest · Cypress  
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/kambiz-baghie-177224b3/) · `your-email@example.com`
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/kambiz-baghie-177224b3/) · `kambiz.baghie@gmail.com`
 
 ---
 
