@@ -1,5 +1,5 @@
 ## 💫 About Me:
-👋 Hi, I'm Kambiz Baghie<br>**Senior Frontend Engineer** — building scalable React & React Native apps. I care about clean UI, predictable state management, and shipping product-focused features.<br><br>- 🔭 Working on: **Self-hosted VPN app** (Flutter frontend / server-side POC) & **Date Deck** (relationship product MVP)  <br>- 💼 Experience: 8+ years in frontend engineering (React, React Native, Next.js)  <br>- ⚙️ Tech: React · React Native · Next.js · TypeScript · JavaScript · Redux · Tailwind CSS · Jest · Cypress  <br>- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/kambiz-baghie-177224b3/) · `kambiz.baghie@gmail.com`
+👋 Hi, I'm Kambiz Baghie<br>**Senior Frontend Engineer** — building scalable **React** & **Nextjs** & **React Native** apps. I care about clean UI, predictable state management, and shipping product-focused features.<br><br>- 🔭 💼 Experience: 8+ years in frontend engineering (React, Next.js, React Native)  <br>- ⚙️ Tech: React · Next.js · React Native · TypeScript · Jest · Cypress  <br>- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/kambiz-baghie-177224b3/) · `kambiz.baghie@gmail.com`
 
 
 ## 🌐 Socials:
